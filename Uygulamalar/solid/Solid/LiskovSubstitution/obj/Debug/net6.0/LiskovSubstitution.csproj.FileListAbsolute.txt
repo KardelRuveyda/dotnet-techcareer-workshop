@@ -1,0 +1,5 @@
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.AssemblyReference.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.AssemblyInfo.cs
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\LiskovSubstitution\obj\Debug\net6.0\LiskovSubstitution.csproj.CoreCompileInputs.cache

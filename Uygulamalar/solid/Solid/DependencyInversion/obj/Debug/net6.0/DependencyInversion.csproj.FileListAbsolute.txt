@@ -1,0 +1,4 @@
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\DependencyInversion\obj\Debug\net6.0\DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\DependencyInversion\obj\Debug\net6.0\DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\DependencyInversion\obj\Debug\net6.0\DependencyInversion.AssemblyInfo.cs
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\DependencyInversion\obj\Debug\net6.0\DependencyInversion.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\bin\Debug\net6.0\OpenClosePrinciple.exe
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\bin\Debug\net6.0\OpenClosePrinciple.deps.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\bin\Debug\net6.0\OpenClosePrinciple.runtimeconfig.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\bin\Debug\net6.0\OpenClosePrinciple.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\bin\Debug\net6.0\ref\OpenClosePrinciple.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\bin\Debug\net6.0\OpenClosePrinciple.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\obj\Debug\net6.0\OpenClosePrinciple.csproj.AssemblyReference.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\obj\Debug\net6.0\OpenClosePrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\obj\Debug\net6.0\OpenClosePrinciple.AssemblyInfoInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\obj\Debug\net6.0\OpenClosePrinciple.AssemblyInfo.cs
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\obj\Debug\net6.0\OpenClosePrinciple.csproj.CoreCompileInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\obj\Debug\net6.0\OpenClosePrinciple.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\obj\Debug\net6.0\ref\OpenClosePrinciple.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\obj\Debug\net6.0\OpenClosePrinciple.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\OpenClosePrinciple\obj\Debug\net6.0\OpenClosePrinciple.genruntimeconfig.cache

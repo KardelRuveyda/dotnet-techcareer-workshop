@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19903ead-6078-4986-aba6-4cc7ee429ed2": {
+      "ProjectGuid": "19903ead-6078-4986-aba6-4cc7ee429ed2",
+      "DisplayName": "SingleResponsibilityPrinciple",
+      "ColorIndex": 0
+    },
+    "08749876-8929-41c9-99c1-4fca20c46f46": {
+      "ProjectGuid": "08749876-8929-41c9-99c1-4fca20c46f46",
+      "DisplayName": "OpenClosePrinciple",
+      "ColorIndex": 1
+    },
+    "45df9e7b-ff40-4ca4-82c6-1b62071d8efc": {
+      "ProjectGuid": "45df9e7b-ff40-4ca4-82c6-1b62071d8efc",
+      "DisplayName": "LiskovSubstitution",
+      "ColorIndex": 2
+    },
+    "868c8078-5daf-4f26-af77-fea3a3b534e8": {
+      "ProjectGuid": "868c8078-5daf-4f26-af77-fea3a3b534e8",
+      "DisplayName": "InterfaceSegregation",
+      "ColorIndex": 3
+    },
+    "ed5b08e3-bb0f-43f3-96ef-6aa3caa96cdc": {
+      "ProjectGuid": "ed5b08e3-bb0f-43f3-96ef-6aa3caa96cdc",
+      "DisplayName": "DependencyInversion",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

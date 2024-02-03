@@ -1,0 +1,15 @@
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\bin\Debug\net6.0\CSharp102.exe
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\bin\Debug\net6.0\CSharp102.deps.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\bin\Debug\net6.0\CSharp102.runtimeconfig.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\bin\Debug\net6.0\CSharp102.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\bin\Debug\net6.0\ref\CSharp102.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\bin\Debug\net6.0\CSharp102.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\obj\Debug\net6.0\CSharp102.csproj.AssemblyReference.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\obj\Debug\net6.0\CSharp102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\obj\Debug\net6.0\CSharp102.AssemblyInfoInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\obj\Debug\net6.0\CSharp102.AssemblyInfo.cs
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\obj\Debug\net6.0\CSharp102.csproj.CoreCompileInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\obj\Debug\net6.0\CSharp102.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\obj\Debug\net6.0\ref\CSharp102.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\obj\Debug\net6.0\CSharp102.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharp102\obj\Debug\net6.0\CSharp102.genruntimeconfig.cache

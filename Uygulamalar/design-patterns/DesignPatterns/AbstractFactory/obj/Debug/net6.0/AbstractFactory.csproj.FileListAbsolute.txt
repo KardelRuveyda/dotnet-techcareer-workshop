@@ -1,0 +1,15 @@
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\bin\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
