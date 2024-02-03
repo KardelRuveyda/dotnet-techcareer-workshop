@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec9971ac-c72e-47e6-bd34-0341d8f43a37": {
+      "ProjectGuid": "ec9971ac-c72e-47e6-bd34-0341d8f43a37",
+      "DisplayName": "Singleton",
+      "ColorIndex": 0
+    },
+    "46fd5588-b710-43e9-9b51-21190743478f": {
+      "ProjectGuid": "46fd5588-b710-43e9-9b51-21190743478f",
+      "DisplayName": "FactoryDesignPattern",
+      "ColorIndex": 1
+    },
+    "472f4241-efec-4414-909c-3ba58d21b44c": {
+      "ProjectGuid": "472f4241-efec-4414-909c-3ba58d21b44c",
+      "DisplayName": "AbstractFactory",
+      "ColorIndex": 2
+    },
+    "c742ce6f-816e-4890-9d04-e7d3da3cf84a": {
+      "ProjectGuid": "c742ce6f-816e-4890-9d04-e7d3da3cf84a",
+      "DisplayName": "Prototype",
+      "ColorIndex": 3
+    },
+    "a5ccdddc-6e30-4211-8098-3c99f39f3bbc": {
+      "ProjectGuid": "a5ccdddc-6e30-4211-8098-3c99f39f3bbc",
+      "DisplayName": "Builder",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "82062f1c-a10e-4e50-86b4-d26f5b378dc3": {
+      "ProjectGuid": "82062f1c-a10e-4e50-86b4-d26f5b378dc3",
+      "DisplayName": "Singleton",
+      "ColorIndex": 5
+    },
+    "70f92b87-7b9c-4b2b-ae43-b1677c6310de": {
+      "ProjectGuid": "70f92b87-7b9c-4b2b-ae43-b1677c6310de",
+      "DisplayName": "DependencyInjection",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

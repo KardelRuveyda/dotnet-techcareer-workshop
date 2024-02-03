@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee6365df-d204-454f-a6e1-0195d3c53e55": {
+      "ProjectGuid": "ee6365df-d204-454f-a6e1-0195d3c53e55",
+      "DisplayName": "CSharpGetStarted",
+      "ColorIndex": 0
+    },
+    "b46bca69-06fb-4d75-835e-fb4e49af39ce": {
+      "ProjectGuid": "b46bca69-06fb-4d75-835e-fb4e49af39ce",
+      "DisplayName": "CSharp102",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

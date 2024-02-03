@@ -1,0 +1,15 @@
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\bin\Debug\net6.0\ref\Prototype.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\obj\Debug\net6.0\ref\Prototype.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\design-patterns\DesignPatterns\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache

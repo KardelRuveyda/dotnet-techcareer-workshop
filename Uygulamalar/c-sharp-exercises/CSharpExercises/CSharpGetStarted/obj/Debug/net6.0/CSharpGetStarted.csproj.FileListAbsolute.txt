@@ -1,0 +1,15 @@
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\bin\Debug\net6.0\CSharpGetStarted.exe
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\bin\Debug\net6.0\CSharpGetStarted.deps.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\bin\Debug\net6.0\CSharpGetStarted.runtimeconfig.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\bin\Debug\net6.0\CSharpGetStarted.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\bin\Debug\net6.0\ref\CSharpGetStarted.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\bin\Debug\net6.0\CSharpGetStarted.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\obj\Debug\net6.0\CSharpGetStarted.csproj.AssemblyReference.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\obj\Debug\net6.0\CSharpGetStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\obj\Debug\net6.0\CSharpGetStarted.AssemblyInfoInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\obj\Debug\net6.0\CSharpGetStarted.AssemblyInfo.cs
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\obj\Debug\net6.0\CSharpGetStarted.csproj.CoreCompileInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\obj\Debug\net6.0\CSharpGetStarted.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\obj\Debug\net6.0\ref\CSharpGetStarted.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\obj\Debug\net6.0\CSharpGetStarted.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\c-sharp-exercises\CSharpExercises\CSharpGetStarted\obj\Debug\net6.0\CSharpGetStarted.genruntimeconfig.cache

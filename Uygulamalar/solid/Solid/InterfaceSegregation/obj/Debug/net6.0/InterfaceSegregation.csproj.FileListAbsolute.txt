@@ -1,0 +1,5 @@
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfo.cs
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.CoreCompileInputs.cache

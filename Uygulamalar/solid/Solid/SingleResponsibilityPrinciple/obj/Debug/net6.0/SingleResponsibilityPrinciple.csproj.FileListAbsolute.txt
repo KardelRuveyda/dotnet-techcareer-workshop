@@ -1,0 +1,15 @@
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.exe
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.deps.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\bin\Debug\net6.0\ref\SingleResponsibilityPrinciple.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\bin\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\obj\Debug\net6.0\ref\SingleResponsibilityPrinciple.dll
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.pdb
+C:\Users\ruveyda.cetin\Desktop\dotnet-bootcamp-yuzuncuyil\Uygulamalar\solid\Solid\SingleResponsibilityPrinciple\obj\Debug\net6.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
