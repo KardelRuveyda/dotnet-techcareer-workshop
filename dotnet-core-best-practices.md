@@ -59,7 +59,7 @@ HTTP (Hypertext Transfer Protocol) protokolü, web üzerinde bilgi alışverişi
 - 501 Not Implemented: Sunucu, isteği yerine getirmek için gerekli yeteneklere sahip değil.
 - 503 Service Unavailable: Sunucu şu anda hizmet veremiyor. Geçici olarak bakım modunda olabilir veya aşırı yük altında olabilir.
 
-Bu durum kodları, bir HTTP yanıtının genel durumunu belirtir. Ancak, bu kodların her biri daha spesifik durumları ifade edebilir ve belirli durumlar için uygun olan kodlar değişebilir. Bu durum kodlarını doğru bir şekilde anlamak, web uygulamalarının hata ayıklamasını ve hata yönetimini geliştirmek açısından önemlidir.
+Bu durum kodları, bir HTTP yanıtının genel durumunu belirtir. Ancak, bu kodların her biri daha spesifik durumları ifade edebilir ve belirli durumlar için uygun olan kodlar değişebilir. Bu durum kodlarını doğru bir şekilde anlamak, web uygulamalarının hata ayıklamasını ve hata yönetimini geliştirmek açısından önemlidir.( Şu web sitesini de inceleyebilirsiniz.https://http.cat/)
 
 ## Doğru Endpoint Kullanımı
 
