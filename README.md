@@ -11,7 +11,7 @@ Techcareer.net'in düzenlediği .Net Katmanlı Mimari Workshop eğitimin notlar�
 - [x] [Dotnet Ekosistemi](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/dotnetekosistemi.md)
 - [x] [Dotnet Core Temelleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/dotnetcore-basic.md)
 - [x] [Dotnet Core Best Practices](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/dotnet-core-best-practices.md)
-- [x] [Monolith vs Microservices](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/monolith-microservices.md)
+- [ ] [Monolith vs Microservices](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/monolith-microservices.md)
 - [ ] [N-Layer Proje Yapısı](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/nlayer.md)
 - [ ] [Core Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/core.md)
 - [ ] [Repository Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/repository.md)
