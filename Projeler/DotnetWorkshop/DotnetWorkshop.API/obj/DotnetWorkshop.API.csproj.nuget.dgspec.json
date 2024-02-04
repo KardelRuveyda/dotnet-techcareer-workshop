@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.API\\DotnetWorkshop.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.API\\DotnetWorkshop.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.API\\DotnetWorkshop.API.csproj",
+        "projectName": "DotnetWorkshop.API",
+        "projectPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.API\\DotnetWorkshop.API.csproj",
+        "packagesPath": "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ruveyda.cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Service\\DotnetWorkshop.Service.csproj": {
+                "projectPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Service\\DotnetWorkshop.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.126\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Core\\DotnetWorkshop.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Core\\DotnetWorkshop.Core.csproj",
+        "projectName": "DotnetWorkshop.Core",
+        "projectPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Core\\DotnetWorkshop.Core.csproj",
+        "packagesPath": "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ruveyda.cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.126\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Repository\\DotnetWorkshop.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Repository\\DotnetWorkshop.Repository.csproj",
+        "projectName": "DotnetWorkshop.Repository",
+        "projectPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Repository\\DotnetWorkshop.Repository.csproj",
+        "packagesPath": "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ruveyda.cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Core\\DotnetWorkshop.Core.csproj": {
+                "projectPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Core\\DotnetWorkshop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.126\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Service\\DotnetWorkshop.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Service\\DotnetWorkshop.Service.csproj",
+        "projectName": "DotnetWorkshop.Service",
+        "projectPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Service\\DotnetWorkshop.Service.csproj",
+        "packagesPath": "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ruveyda.cetin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Repository\\DotnetWorkshop.Repository.csproj": {
+                "projectPath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Repository\\DotnetWorkshop.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.126\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
