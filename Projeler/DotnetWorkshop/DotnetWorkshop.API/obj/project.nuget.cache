@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "02F2MH46CGvSx9BILZsZmQFSIaX/gLoDEXJA2X2lxdiqlQSkfhUgyKsFzWs5qD0Qhofexr331gYHMqj+4sN+rg==",
+  "dgSpecHash": "DqoQubdyuH+lUisjO4enOE1CymAri1Lz7TcM4FLW9yMATh9h+GfXZzEz+JtFuWv7DqMiTjwChUqi3+XK+SetmA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.API\\DotnetWorkshop.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.0\\microsoft.entityframeworkcore.design.6.0.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.0\\microsoft.entityframeworkcore.relational.6.0.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.0\\microsoft.entityframeworkcore.sqlserver.6.0.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
