@@ -41,7 +41,7 @@ namespace DotnetWorkshop.Repository.Repositories
 
         public void Remove(T entity)
         {
-            _context.Entry(entity).State = EntityState.Deleted;
+            //_context.Entry(entity).State = EntityState.Deleted;
             _dbSet.Remove(entity);
         }
 
