@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DotnetWorkshop.Repository\DotnetWorkshop.Repository.csproj" />
+  </ItemGroup>
+
 </Project>
