@@ -8,5 +8,7 @@ namespace DotnetWorkshop.Core.UnitOfWorks
 {
     public interface IUnitOfWork
     {
+        Task CommitAsync(); //SaveChangesAsync temsil etsin.
+        void Commit();//Savechanges() temsil etsin.
     }
 }
