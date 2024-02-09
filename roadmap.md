@@ -1,3 +1,3 @@
 ## Eğitim Yol Haritası
 
-![image](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/assets/33912144/70cd60a0-6bdd-43e4-9aef-ba3134b6901f)
+![image](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/assets/33912144/61144f14-4ff5-4303-a493-6a4afcc2fee8)
