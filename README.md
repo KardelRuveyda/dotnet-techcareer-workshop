@@ -11,12 +11,12 @@ Techcareer.net'in düzenlediği .Net Katmanlı Mimari Workshop eğitimin notlar�
 - [x] [Dotnet Ekosistemi](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/dotnetekosistemi.md)
 - [x] [Dotnet Core Temelleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/dotnetcore-basic.md)
 - [x] [Dotnet Core Best Practices](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/dotnet-core-best-practices.md)
-- [ ] [Monolith vs Microservices](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/monolith-microservices.md)
-- [ ] [N-Layer Proje Yapısı](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/nlayer.md)
-- [ ] [Core Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/core.md)
-- [ ] [Repository Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/repository.md)
+- [x] [Monolith vs Microservices](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/monolith-microservices.md)
+- [x] [N-Layer Proje Yapısı](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/nlayer.md)
+- [x] [Core Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/core.md)
+- [x] [Repository Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/repository.md)
 - [ ] [Servis Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/service.md)
 - [ ] [API Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/api.md)
 
 
-- [x] [Faydalı Linkler](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/faydali-linkler.md)
+![image](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/assets/33912144/6a0e3758-8ade-43da-92f1-3d08ed745f58)
