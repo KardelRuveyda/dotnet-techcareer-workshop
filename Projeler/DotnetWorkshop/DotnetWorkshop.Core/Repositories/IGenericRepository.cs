@@ -11,7 +11,7 @@ namespace DotnetWorkshop.Core.Repositories
     {
         Task<T> GetByIdAsync(int id);
 
-        //user.GetAll(s => s.userName == "kardel").ToList();
+        //user.GetAll(s => s.userName == "kardel").Where(s => s.id >1);
         IQueryable<T> GetAll();
         IQueryable<T> Where(Expression<Func<T, bool>> expression);
         Task AddAsync(T entity);
