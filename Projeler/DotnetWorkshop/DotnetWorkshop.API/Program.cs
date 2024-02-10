@@ -5,6 +5,8 @@ using DotnetWorkshop.Core.UnitOfWorks;
 using DotnetWorkshop.Repository;
 using DotnetWorkshop.Repository.Repositories;
 using DotnetWorkshop.Repository.UnitOfWorks;
+using DotnetWorkshop.Service.Authorization.Abstract;
+using DotnetWorkshop.Service.Authorization.Concrete;
 using DotnetWorkshop.Service.Mapping;
 using DotnetWorkshop.Service.Services;
 using DotnetWorkshop.Service.Validations;
@@ -57,8 +59,7 @@ builder.Services.AddSwaggerGen(options =>
 //Automapper kütüphanesinin tanýmlanmasý
 builder.Services.AddAutoMapper(typeof(MapProfile));
 builder.Services.AddHttpContextAccessor();
-
-
+builder.Services.AddScoped<IJwtAuthenticationManager, JwtAuthenticationManager>();
 //Fluent Validation Tanýmlamasýnýn gerçekleþtirilmesi.
 //1. Yöntem
 //builder.Services.AddControllers()
