@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "y74l04scnV4LmSIUonW1a7FMp3C+e4tRvF2jPERUA1I7A/L3aVqkYM8ulKuK/tU/g2IQDLyTwSV14cBuuAQSzA==",
+  "dgSpecHash": "IqI6nBx3jKuNdyZa5ArqnjxucxGTuQ8vCJ52pR/bwoOKEWCVWKbxUZP34KYbSJN38EQGaXtiFGkF+a4CAdpk2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.API\\DotnetWorkshop.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

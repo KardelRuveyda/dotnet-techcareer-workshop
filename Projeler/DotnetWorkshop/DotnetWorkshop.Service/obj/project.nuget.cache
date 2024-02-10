@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "fUno5F97C7ka0kfgZIv05qs/dzoWdmN7+A0IBTHPkIhtD3BK1BRVb57QiD9DLGNaZ5a4ziMFkmmyqSutNKfRxg==",
+  "dgSpecHash": "4CswP2wSu2/keWn5K5tVZjFDo3reieOrKbmUS7p459Z76puli2oEM7d9Gm9KjnA53zXQJBhMiBDV46hHnvRPxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.Service\\DotnetWorkshop.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
