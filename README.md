@@ -19,4 +19,4 @@ Techcareer.net'in düzenlediği .Net Katmanlı Mimari Workshop eğitimin notlar�
 - [ ] [API Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/api.md)
 
 
-![image](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/assets/33912144/6a0e3758-8ade-43da-92f1-3d08ed745f58)
+![image](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/assets/33912144/9c134ee7-1138-437b-8914-9924879364d3)
