@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DqoQubdyuH+lUisjO4enOE1CymAri1Lz7TcM4FLW9yMATh9h+GfXZzEz+JtFuWv7DqMiTjwChUqi3+XK+SetmA==",
+  "dgSpecHash": "y74l04scnV4LmSIUonW1a7FMp3C+e4tRvF2jPERUA1I7A/L3aVqkYM8ulKuK/tU/g2IQDLyTwSV14cBuuAQSzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ruveyda.cetin\\Desktop\\dotnet-workshop\\Projeler\\DotnetWorkshop\\DotnetWorkshop.API\\DotnetWorkshop.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\ruveyda.cetin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
