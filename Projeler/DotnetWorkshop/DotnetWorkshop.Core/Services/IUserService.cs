@@ -15,5 +15,6 @@ namespace DotnetWorkshop.Core.Services
         UserDto FindUser(string userName, string password);
         AuthResponseDto Login(AuthRequestDto request);
         UserDto SignUp(AuthRequestDto request);
+        UserDto GetByUserName(string userName);
     }
 }

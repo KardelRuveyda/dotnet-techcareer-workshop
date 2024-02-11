@@ -1,5 +1,6 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
+using DotnetWorkshop.API.MiddleWares;
 using DotnetWorkshop.Core.Repositories;
 using DotnetWorkshop.Core.Services;
 using DotnetWorkshop.Core.UnitOfWorks;
@@ -98,14 +99,14 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-//app.UseCustomException();
+app.UseCustomException();
 
 app.UseRouting();
 
 app.UseAuthentication();
 app.UseAuthorization();
 
-//app.UseMiddleware<JwtMiddleware>();
+app.UseMiddleware<JwtMiddleware>();
 app.MapControllers();
 
 app.Run();
