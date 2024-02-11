@@ -26,11 +26,11 @@ namespace DotnetWorkshop.API.MiddleWares
                 }
             }
 
-            var userName = iJwtAuthenticationManager.ValidateJwtToken(token);
-            if (userName != null)
+            var userId = iJwtAuthenticationManager.ValidateJwtToken(token);
+            if (userId != null)
             {
                 // attach user to context on successful jwt validation
-                context.Items["User"] = userService.GetByUserName(userName);
+                context.Items["User"] = userService.GetByIdAsync(userId.Value).Result;
             }
 
             await _next(context);
