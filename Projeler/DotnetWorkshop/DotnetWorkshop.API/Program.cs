@@ -1,6 +1,7 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using DotnetWorkshop.API.MiddleWares;
+using DotnetWorkshop.API.Modules;
 using DotnetWorkshop.Core.Repositories;
 using DotnetWorkshop.Core.Services;
 using DotnetWorkshop.Core.UnitOfWorks;
@@ -24,8 +25,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
 
-#region Swagger Ýþlemleri
+#region swagger iþlemleri
 builder.Services.AddSwaggerGen(options =>
 {
     options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
@@ -56,42 +59,34 @@ builder.Services.AddSwaggerGen(options =>
 #endregion
 
 
-//Automapper kütüphanesinin tanýmlanmasý
 builder.Services.AddAutoMapper(typeof(MapProfile));
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<IJwtAuthenticationManager, JwtAuthenticationManager>();
-//Fluent Validation Tanýmlamasýnýn gerçekleþtirilmesi.
-//1. Yöntem
-//builder.Services.AddControllers()
-//    .AddFluentValidation(x =>
-//    {
-//        x.RegisterValidatorsFromAssemblyContaining<TeamDtoValidator>();
-//        x.RegisterValidatorsFromAssemblyContaining<UserDtoValidator>();
-//        x.RegisterValidatorsFromAssemblyContaining<UserProfileDtoValidator>();
-//    });
 
-//2. yöntem
+////JWT Kütüphanesinin Tanýtýlmasý
+
 builder.Services.AddControllers().AddFluentValidation(x => { x.RegisterValidatorsFromAssemblyContaining<TeamDtoValidator>(); });
 
 
-
-//AppDbContext ile ilgili iþlemler
+//AppDbContext iþlemler
 builder.Services.AddDbContext<AppDbContext>(x =>
-  x.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"), option =>
-  {
-      option.MigrationsAssembly(Assembly.GetAssembly(typeof(AppDbContext)).GetName().Name);
-  })
-);
+{
+    x.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"), option =>
+    {
+        option.MigrationsAssembly(Assembly.GetAssembly(typeof(AppDbContext)).GetName().Name);
+    });
+});
 
-
-//Autofac kütüphanesini ekledik. Bu kütüphane aracýlýðýyla (Generic Repository,service vb) iþlemleri otomatik olarak program.cs'de çalýþtýrsýn.
 builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
 
-// Buranýn devamý (API KATMANINDA.)
-//builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder => containerBuilder.RegisterModule(new RepoModuleService()));
+//Buradan Autofac kullanarak yazdýðýmýz RepoServiceModule'ü dahil ediyoruz.
+builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder => containerBuilder.RegisterModule(new RepoModuleService()));
+
 
 var app = builder.Build();
 
+
+// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -110,3 +105,4 @@ app.UseMiddleware<JwtMiddleware>();
 app.MapControllers();
 
 app.Run();
+

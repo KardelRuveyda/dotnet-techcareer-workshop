@@ -1,6 +1,7 @@
 ﻿using DotnetWorkshop.Core.DTOs;
 using DotnetWorkshop.Service.Authorization.Abstract;
 using DotnetWorkshop.Service.Helpers;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
@@ -15,9 +16,10 @@ namespace DotnetWorkshop.Service.Authorization.Concrete
     public class JwtAuthenticationManager : IJwtAuthenticationManager
     {
         private readonly AppSettings _appSettings;
-        public JwtAuthenticationManager(AppSettings appSettings)
+
+        public JwtAuthenticationManager(IOptions<AppSettings> appSettings)
         {
-            _appSettings = appSettings;
+            _appSettings = appSettings.Value;
         }
         public AuthResponseDto Authenticate(string userName, string password)
         {
@@ -31,14 +33,14 @@ namespace DotnetWorkshop.Service.Authorization.Concrete
                 var tokenDescriptor = new SecurityTokenDescriptor
                 {
                     Expires = DateTime.UtcNow.AddHours(1),
-                    Subject = new System.Security.Claims.ClaimsIdentity(
-                        new Claim[]
-                        {
-                            new Claim(ClaimTypes.Name,userName)
-                        }),
+                    Subject = new ClaimsIdentity(new Claim[]
+                    {
+                        new Claim(ClaimTypes.Name,userName)
+                    }),
                     SigningCredentials = new SigningCredentials(
                         new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
                 };
+
 
                 var token = tokenHandler.CreateToken(tokenDescriptor);
                 authResponse.Token = tokenHandler.WriteToken(token);
@@ -47,39 +49,41 @@ namespace DotnetWorkshop.Service.Authorization.Concrete
             }
             catch (Exception)
             {
-
                 return authResponse;
             }
-        }
 
-        public string ValidateJwtToken(string token)
+        }
+        public int? ValidateJwtToken(string token)
         {
             if (token == null)
                 return null;
 
             var tokenHandler = new JwtSecurityTokenHandler();
             var key = Encoding.ASCII.GetBytes(_appSettings.Secret);
-
             try
             {
                 tokenHandler.ValidateToken(token, new TokenValidationParameters
                 {
-                   ValidateIssuerSigningKey = true,
-                   IssuerSigningKey = new SymmetricSecurityKey(key),
-                   ValidateIssuer = false,
-                   ValidateAudience =false,
-                   ClockSkew = TimeSpan.Zero
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(key),
+                    ValidateIssuer = false,
+                    ValidateAudience = false,
+                    // set clockskew to zero so tokens expire exactly at token expiration time (instead of 5 minutes later)
+                    ClockSkew = TimeSpan.Zero
                 }, out SecurityToken validatedToken);
 
                 var jwtToken = (JwtSecurityToken)validatedToken;
-                var userName = jwtToken.Claims.First(x => x.Type == "Name").Value;
-                return userName;
-            }
-            catch (Exception)
-            {
+                var userId = int.Parse(jwtToken.Claims.First(x => x.Type == "id").Value);
 
-                return "";
+                // return user id from JWT token if validation successful
+                return userId;
+            }
+            catch
+            {
+                // return null if validation fails
+                return null;
             }
         }
+
     }
 }
