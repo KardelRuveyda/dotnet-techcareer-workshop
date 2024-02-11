@@ -105,5 +105,12 @@ namespace DotnetWorkshop.Service.Services
 
             return userDto;
         }
+
+        public UserDto GetByUserName(string userName)
+        {
+            var user = _repository.Where(x => x.UserName == userName).FirstOrDefault();
+            var userDto = _mapper.Map<UserDto>(user);
+            return userDto;
+        }
     }
 }
