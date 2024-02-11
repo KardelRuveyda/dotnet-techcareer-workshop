@@ -15,8 +15,8 @@ Techcareer.net'in düzenlediği .Net Katmanlı Mimari Workshop eğitimin notlar�
 - [x] [N-Layer Proje Yapısı](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/nlayer.md)
 - [x] [Core Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/core.md)
 - [x] [Repository Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/repository.md)
-- [ ] [Servis Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/service.md)
-- [ ] [API Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/api.md)
+- [x] [Servis Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/service.md)
+- [x] [API Katmanı Geliştirmeleri](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/blob/master/api.md)
 
 
-![image](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/assets/33912144/9c134ee7-1138-437b-8914-9924879364d3)
+![image](https://github.com/KardelRuveyda/dotnet-techcareer-workshop/assets/33912144/5bc36f52-9cc9-4a10-94df-9dd797281018)
